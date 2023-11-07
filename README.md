@@ -4,7 +4,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦 
+Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦 [WIP]
 
 Give it a try [here](https://colab.research.google.com/github/nateraw/openai-vision-api-for-videos/blob/main/demo.ipynb)!
 
